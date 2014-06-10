@@ -13,7 +13,7 @@ On the begin screen of the app, the user will see a picture with the logo of the
 2. Settings 
 3. High Scores
 
-Start Game will start the Hangman Game in evil modes. In Evil mode the computer constantly tries to dodge the user’s guesses by changing the word it’s thinking of. 
+Start Game will start the Hangman Game in evil modes. In Evil mode the computer constantly tries to dodge the userï¿½s guesses by changing the word itï¿½s thinking of. 
 
 The choice for these three buttons is made because of its simplicity, the user starts up the app and can start a game, change some settings or view the highscores. The choice not to start a game by opening is made because that annoys the user if the user wants to change preferences at the start or view his/her best scores. 
 
