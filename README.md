@@ -26,6 +26,8 @@ The Hangman app is build in Eclipe and contains the following frameworks, langua
 - Word list
 - Buttons for inputting letters
 
+For the design's of the Hangman app see the pictures in the readme folder.
+
 This app is developed and copyrighted by Thijs Verheul (10003265) and Sjuul Berden (10694498).
 
 Design's:
