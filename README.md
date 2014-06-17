@@ -25,7 +25,7 @@ The following features are implemented in Hangman - the evil version.
 ### Frameworks, languages, libraries and technologies
 
 - The Hangman app will be made in Eclipe
-- The Hangman app will be writen in Jave
+- The Hangman app will be writen in Java
 - The Hangman app will include a highscore and word list
 - The Hangman app will include buttons for inputting letters
 - The Hangman app will include different classes for evil game play and normal game play
