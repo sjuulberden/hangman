@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="words_small">
+	<item>BEAR</item>
+	<item>BOAR</item>
+	<item>DEER</item>
+	<item>DUCK</item>
+	<item>HARE</item>
+	<item>BEARAB</item>
+	<item>BEARCD</item>
+	<item>BEARABCD</item>
+	<item>BEARDCBA</item>
+	<item>BEARBEARBE</item>
+	<item>REABREABRE</item>
+</string-array>
+</resources>
