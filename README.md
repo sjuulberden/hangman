@@ -1,4 +1,4 @@
-Hangman - the evil version - version 1.1 (02-06-2014)
+### Hangman - the evil version - version 1.1 (02-06-2014)
 
 In the game of hangman the computer plays against a user. The user will try to guess the word chosen by the
 computer. For guessing the user gets seven chances, if he didn't guess the word at the end of the game he will be hung! 
